@@ -43,6 +43,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shushmitadas99&show_icons=true&hide_border=true&locale=en&bg_color=372f74&text_color=fc309b&title_color=31ebfc&icon_color=31ebfc" alt="shushmitadas99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shushmitadas99&hide_border=true&background=372f74&stroke=31ebfc&fire=31ebfc&ring=31ebfc&currStreakLabel=fc309b&currStreakNum=fc309b&sideNums=fc309b&sideLabels=fc309b&dates=31ebfc" alt="shushmitadas99" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shushmitadas99&hide_border=true&background=372F74&ring=31EBFC&fire=31EBFC&currStreakLabel=FC309B&currStreakNum=FC309B&stroke=31EBFC&sideNums=FC309B&sideLabels=FC309B&dates=31EBFC)](https://git.io/streak-stats)
 
 ***P.S. Profile viewed best in dark/dark-dimmed github themes***:sparkles:
