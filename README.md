@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shushmitadas99?tab=repositories](https://github.com/shushmitadas99?tab=repositories)
 
-- 💬 Ask me about **frontend development**
+- 💬 Ask me about **frontend/software development**
 
 - 📫 How to reach me **shushmitadas@trentu.ca**
 
