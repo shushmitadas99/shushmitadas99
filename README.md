@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **frontend and full-stack projects**
 
-- 🌱 I’m currently learning **MERN Stack and Vue**
+- 🌱 I’m currently learning **Python/Java Full Stack with Automation**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
