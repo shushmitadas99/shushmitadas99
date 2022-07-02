@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shushmitadas99&label=Profile%20views&color=0e75b6&style=flat" alt="shushmitadas99" /> </p>
 
-- 🔭 I’m currently working on **frontend and full-stack projects**
+- 🔭 I’m currently working on **RESTful API and MVC architecture projects**
 
 - 🌱 I’m currently learning **Python/Java Full Stack with Automation**
 
