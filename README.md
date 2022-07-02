@@ -1,7 +1,7 @@
 <!-- ---------------------------------------- || MY PROFILE README || ---------------------------------------- -->
 
 <h1 align="center">Hi 👋, I'm Shushmita Das</h1>
-<h3 align="center">An aspiring software engineer and a frontend developer passionate about building cool projects and cutting edge technological solutions.</h3>
+<h3 align="center">An aspiring software engineer passionate about building cool projects and next generation of technological solutions.</h3>
 
 <!-- ---------------------------------------- | Basic Introductions | ---------------------------------------- -->
 
