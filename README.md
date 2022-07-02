@@ -45,4 +45,4 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shushmitadas99&hide_border=true&background=372F74&ring=31EBFC&fire=31EBFC&currStreakLabel=FC309B&currStreakNum=FC309B&stroke=31EBFC&sideNums=FC309B&sideLabels=FC309B&dates=31EBFC)](https://git.io/streak-stats) -->
 
-***P.S. Profile viewed best in dark/dark-dimmed github themes***:sunglasses:
+***P.S. Get on dark/dark-dimmed github themes for the best profile viewing experience***:sunglasses:
