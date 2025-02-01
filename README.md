@@ -1,25 +1,25 @@
 <!-- ---------------------------------------- || MY PROFILE README || ---------------------------------------- -->
 
 <h1 align="center">Hi 👋, I'm Shushmita Das</h1>
-<h3 align="center">An aspiring software engineer passionate about building cool projects and next generation of technological solutions.</h3>
+<h3 align="center">A software engineer passionate about building cool projects, learning and creating next generation of technological and AI solutions.</h3>
 
 <!-- ---------------------------------------- | Basic Introductions | ---------------------------------------- -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shushmitadas99&label=Profile%20views&color=0e75b6&style=flat" alt="shushmitadas99" /> </p>
 
-- 🔭 I’m currently working on **RESTful APIs and MVC architecture projects**
+- 🔭 I’m currently working on **RESTful APIs and MVC architecture projects with focus on Data**
 
-- 🌱 I’m currently learning **Python/Java Full Stack with Automation**
+- 🌱 I’m currently learning **Machine Learning - Generative AI**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shushmitadas99?tab=repositories](https://github.com/shushmitadas99?tab=repositories)
 
-- 💬 Ask me about **frontend/software development**
+- 💬 Ask me about **Anything SDLC/STLC or Data Analysis/Migration related**
 
-- 📫 How to reach me **shushmitadas@trentu.ca**
+- 📫 How to reach me **shushmita.das@ourlook.com**
 
-- ⚡ Fun fact **I play badminton well and I love to read science fiction/fantasy novels. I'm also a fast learner.**
+- ⚡ Fun facts **I play badminton well, I'm tri-lingual, and I love to read sci-fi novels along with following with AI trends and developments.**
 
 ![Woman Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/source.gif)
 
