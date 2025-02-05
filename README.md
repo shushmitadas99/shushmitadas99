@@ -1,7 +1,7 @@
 <!-- ---------------------------------------- || MY PROFILE README || ---------------------------------------- -->
 
 <h1 align="center">Hi 👋, I'm Shushmita Das</h1>
-<h3 align="center">A software engineer passionate about building cool projects, learning and creating next generation of technological and AI solutions.</h3>
+<h3 align="center">A software engineer passionate about building cool projects, learning and creating next gen tech with AI implementations.</h3>
 
 <!-- ---------------------------------------- | Basic Introductions | ---------------------------------------- -->
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shushmita.das@ourlook.com**
 
-- ⚡ Fun facts **I play badminton well, I'm tri-lingual, and I love to read sci-fi novels along with following with AI trends and developments.**
+- ⚡ Fun facts **I play badminton well, I'm tri-lingual, and I love to read sci-fi novels along with following AI trends and developments.**
 
 ![Woman Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/source.gif)
 
